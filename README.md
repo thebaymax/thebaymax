@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @thebaymax
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+i am a discord bot create by @theabhayprajapati
 
-<!---
-thebaymax/thebaymax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+my main goal suggest my master food on demand.
+
+he comes on discord and types _!food_ and I his co-closed person does the work of suggesting him.
+
